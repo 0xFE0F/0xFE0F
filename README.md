@@ -4,7 +4,7 @@ I'm Charlie, a developer who usually works on lua, squirrel, and python code for
 please refer to my extended about me!
 Read it here: https://0xFE0F.github.io
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xfe0f&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xfe0f&langs_count=8&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Thanks for reading!
 
