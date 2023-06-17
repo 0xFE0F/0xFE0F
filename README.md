@@ -4,6 +4,8 @@ I'm Charlie, a developer who usually works on lua, squirrel, and python code for
 please refer to my extended about me!
 Read it here: https://0xFE0F.github.io
 
+### Thanks for reading!
+
 <!--
 **0xFE0F/0xFE0F** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
