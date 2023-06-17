@@ -2,7 +2,6 @@
 
 I'm Charlie, a developer who usually works on lua, squirrel, and python code for more information 
 please refer to my extended about me!
-
 Read it here: https://0xFE0F.github.io
 
 <!--
