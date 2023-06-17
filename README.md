@@ -1,4 +1,7 @@
-### Hi there 👋
+### Welcome!
+
+I'm Charlie, a developer who usually works on lua, squirrel, and python code
+for more information please refer to my extended about me!
 
 <!--
 **0xFE0F/0xFE0F** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
