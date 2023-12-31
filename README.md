@@ -1,6 +1,6 @@
 ### Welcome!
 
-I'm Charlie, a developer who usually works on lua, squirrel, and python code for more information 
+I'm Charlie, a developer who usually works on lua, squirrel, javascript, and python code for more information 
 please refer to my extended about me!
 Find it (and other stuff too!) here: https://0xFE0F.github.io
 
