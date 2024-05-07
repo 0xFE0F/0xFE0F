@@ -6,7 +6,7 @@ Find it (and other stuff too!) here: https://0xFE0F.github.io
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/?username=0xfe0f&langs_count=8&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://dcbadge.vercel.app/api/shield/970867482791407676?style=flat)
+![](https://dcbadge.limes.pink/api/shield/970867482791407676?style=flat)
 
 ### Thanks for reading!
 
